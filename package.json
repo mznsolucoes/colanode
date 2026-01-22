@@ -42,6 +42,6 @@
   },
   "dependencies": {
     "debug": "^4.4.1",
-    "lodash-es": "^4.17.21"
+    "lodash-es": "^4.17.23"
   }
 }
